@@ -1,1 +1,1 @@
-[# very-basic-resume](https://github.com/NaitikRaj/very-basic-resume)
+https://naitikraj.github.io/very-basic-resume/
